@@ -1,10 +1,10 @@
 <?php
 // Database configuration for InfinityFree
 class Database {
-    private $host = 'sql200.infinityfree.com'; // Replace with your InfinityFree MySQL host
-    private $db_name = 'if0_37000000_cirravoconnect'; // Replace with your database name
-    private $username = 'if0_37000000'; // Replace with your database username
-    private $password = 'your_password'; // Replace with your database password
+    private $host = 'sql105.infinityfree.com';
+    private $db_name = 'if0_39847784_connections';
+    private $username = 'if0_39847784';
+    private $password = 'O5kkBVmu90R9I';
     private $conn;
 
     public function getConnection() {
